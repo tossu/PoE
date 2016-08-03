@@ -1,0 +1,92 @@
+
+
+
+Show
+    ItemLevel 10234
+    ItemLevel 1                               
+    ItemLevel <= 99
+    BaseType "PENIS"
+    SetTextColor 255 255 255
+    
+
+    PlayAlertSound 100 100
+    SetTextColor 255 255 255 255
+    
+
+    Rarity Magic
+    Rarity <= Magic
+
+
+
+Hide
+    ItemLevel <= 0   
+
+Show
+SetTextColor 255 255 255
+
+
+
+Show
+    SetTextColor 255 255 255
+    SetBackgroundColor 255 255 255
+    SetTextColor 255 255 255 255
+
+
+
+
+Hide
+
+
+
+Hide
+    BaseType Flask
+    Quality < 10
+Show
+    BaseType Flask
+Show
+    Rarity >= Rare
+Show
+    DropLevel >= 70
+Hide
+    BaseType "Scroll of Wisdom"
+Show
+    Class Map Currency
+Show
+    Class Gem
+    PlayAlertSound 4 75  
+Show
+    Quality 20
+    SetTextColor 0 0 255
+Show
+    Sockets 6
+    SetBorderColor 255 0 0 
+Show
+    LinkedSockets >= 5
+    SetFontSize 45
+Hide
+Hide
+    BaseType Flask
+    Quality < 10
+Show
+    BaseType Flask
+Show
+    Rarity >= Rare
+Show
+    DropLevel >= 70
+Hide
+    BaseType "Scroll of Wisdom"
+Show
+    Class Map Currency
+Show
+    Class Gem
+    PlayAlertSound 4 75
+Show
+    Quality 20
+    SetTextColor 0 0 255
+Show
+    Sockets 6
+    SetBorderColor 255 0 0 
+Show
+    LinkedSockets >= 5
+    SetFontSize 45
+Hide
